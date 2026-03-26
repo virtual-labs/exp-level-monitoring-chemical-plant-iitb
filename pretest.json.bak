@@ -1,0 +1,47 @@
+[
+  {
+    "question": "The combinational circuit for one bit equality checker is shown below. The Boolean expression for output Y is________. <br> <img src = 'images/p18.png' > ",
+    "qid": 1,
+    "option_a": "Y = A'B + AB",
+    "option_b": "Y = AB + A'B'",
+    "option_c": "Y = AB + (AB)'",
+    "option_d": "Y = A'B' + A",
+    "correct_option": "b"
+  },
+  {
+    "question": "Identify the equivalent circuit for the Boolean expression Y = A'BC'D + A'BCD +ABD .",
+    "qid": 2,
+    "option_a": "<img src = 'images/p19.png' > ",
+    "option_b": "<img src = 'images/p20.png'> ",
+    "option_c": "<img src = 'images/p21.png' > ",
+    "option_d": "<img src = 'images/p22.png'> ",
+    "correct_option": "d"
+  },
+  {
+    "question": "For the given combinational circuit determine the simplified final output at Y.  <br> <img src = 'images/p23.png'>",
+    "qid": 3,
+    "option_a": "Y = Logic 0",
+    "option_b": "Y = Logic 1",
+    "option_c": "Y = A.B",
+    "option_d": "Y = A + B",
+    "correct_option": "a"
+  },
+  {
+    "question": "If anyone of the inputs of a multiple-input-NAND gate is connected to ground (logic 0) the output is________.",
+    "qid": 4,
+    "option_a": "Logic 0",
+    "option_b": "Tristate",
+    "option_c": "Logic 1",
+    "option_d": "None of these",
+    "correct_option": "c"
+  },
+  {
+    "question": "The performance of an application is represented by Y = [(AB)' + (A+B)']AB' . Which of the following is a simplified expression for Y?",
+    "qid": 5,
+    "option_a": "Y = AB",
+    "option_b": "Y = (AB)'",
+    "option_c": "Y = AB'",
+    "option_d": "Y = A'B",
+    "correct_option": "c"
+  }
+]
