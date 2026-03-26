@@ -1,1 +1,1 @@
-### Aim of the experiment
+The aim of the experiment is to apply NAND gate logic in a level monitoring system in a chemical plant. Using generalized simulator framework, the user will be able to place a NAND gate, make input-output connections and verify its truth table.
