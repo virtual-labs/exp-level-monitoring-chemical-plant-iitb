@@ -1,13 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
-</head>
-<body>
-		<!-- Your code goes here-->
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
+<body>
+    <canvas id="mycanvas" width="800" height="500"></canvas>
+    <input style="position:absolute;left:30px;top:100px;width:50px;height:150px" id="temp1" type="range" name="points" value="50" min="1" max="100" step="1" orient="vertical" oninput="clickme();" onchange ="clickme();"  />
+    <input style="position:absolute;left:30px;top:300px;width:50px;height:150px" id="press1" type="range" name="points" value="50" min="1" max="100" step="1" orient="vertical" oninput="clickme();" onchange="clickme();" />
+<p>Task: Build OR gate logic using only NAND gates and verify its working.
+</p>
+	<iframe src="sim.html" width="100%" height="1000px"></iframe>  
 </body>
+<head>
+    <title></title>
+    <link href="css/veriticalslider.css" rel="stylesheet" />
+    <script src="js/gates.ob.js"></script>
+    <script src="js/levelchemical.ob.js"></script>
+</head>
 </html>

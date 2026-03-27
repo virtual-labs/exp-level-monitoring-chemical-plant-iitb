@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Problem statement:The supervisor of the manufacturing process prefers to have a RED LED to turn ON when either tank A(input button1) or tank B (input button 2) or both tank levels drop below ¼ full-level.",
+    "qid": 1,
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": ""
+  },
+  {
+    "question": "What modification would be required in the external circuit (limiting resistor & RED LED) connected to the output of NAND gate?",
+    "qid": 2,
+    "option_a": "The cathode of RED LED should be connected to + 5 V.",
+    "option_b": "The cathode of RED LED should be connected to ground.",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": "b"
+  },
+  {
+    "question": "If external connections are done according to the solution of Q.1; then we refer to the IC as _____________ current.",
+    "qid": 3,
+    "option_a": "Sinking",
+    "option_b": "Sourcing",
+    "option_c": "Limiting",
+    "option_d": "None of these",
+    "correct_option": "b"
+  },
+  {
+    "question": "The output of NAND gate is LOW __________",
+    "qid": 4,
+    "option_a": "When tank A is empty",
+    "option_b": "When tank B is empty",
+    "option_c": "When tanks A & B both are empty.",
+    "option_d": "when tank A or B is empty",
+    "correct_option": "c"
+  },
+  {
+    "question": "Which of the following gate can replace the NAND gate?",
+    "qid": 5,
+    "option_a": "AND",
+    "option_b": "OR",
+    "option_c": "XOR",
+    "option_d": "XNOR",
+    "correct_option": "b"
+  },
+  {
+    "question": "The following logic gates equivalent to each other. <br> <img src = 'images/q12.png' >",
+    "qid": 6,
+    "option_a": "True",
+    "option_b": "False",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": "a"
+  }
+]
